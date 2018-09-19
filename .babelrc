@@ -1,0 +1,3 @@
+{
+  "presets": ["angular", "es2015", "stage-1"]
+}
